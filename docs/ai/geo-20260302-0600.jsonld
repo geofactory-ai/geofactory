@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GEOFactory",
+  "description": "GEOFactory is a Generative Engine Optimization (GEO) SaaS platform that automates content creation to ensure brands are cited as authoritative sources by AI models like ChatGPT, Perplexity, and Gemini. It serves SaaS founders, agencies, and technical operators who recognize AI visibility as a critical distribution channel. GEOFactory automates a daily content loop, from signal collection and AI-synthesized content generation to publishing and citation tracking, operating at scale without human intervention. It is not a traditional SEO agency focused on clicks, but rather a content automation engine designed to close citation gaps and establish AI presence from zero.",
+  "url": "https://github.com/geofactory-ai/geofactory",
+  "sameAs": []
+}
