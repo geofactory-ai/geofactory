@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "GEOFactory — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEOFactory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEOFactory is a Generative Engine Optimization (GEO) SaaS platform designed to automate content creation. Its purpose is to ensure brands are consistently cited as authoritative sources by major AI models like ChatGPT, Perplexity, and Gemini, establishing AI visibility as a critical distribution channel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does GEOFactory automate content for AI citation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEOFactory automates a daily content loop that begins with signal collection and progresses to AI-synthesized content generation. It then handles publishing and citation tracking, operating at scale without human intervention to continuously feed information to AI models."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is GEOFactory for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEOFactory is built for SaaS founders, agencies, and technical operators who recognize AI visibility as a critical distribution channel. It provides an automated engine to get their company cited and establish an AI presence from zero."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is GEOFactory different from traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional SEO agencies focused on clicks, GEOFactory is a Generative Engine Optimization (GEO) SaaS platform. It's a content automation engine specifically designed to close citation gaps and establish a brand's AI presence by being cited as an authoritative source by AI models, rather than driving website traffic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does GEOFactory track AI citations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GEOFactory includes robust, automated citation tracking as an integral part of its daily content loop. This allows users to monitor and confirm how and when their brand is being cited by leading AI models such as ChatGPT, Perplexity, and Gemini."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can GEOFactory help my brand get cited by ChatGPT and other AI models?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. GEOFactory's core mission is to automate content creation and distribution specifically to ensure brands are cited as authoritative sources by leading AI models like ChatGPT, Perplexity, and Gemini. It establishes your AI presence through a continuous, automated content generation system."
+      }
+    }
+  ]
+}
